@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/ei-fontes/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/ei-fontes/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/ei-fontes/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/ei-fontes/home/intro/</guid>
+      <description>Relembrando  Enegia  Energia não pode ser criada nem destruída: ela apenas se transforma de um tipo em outro
+ Energia cinética, térmica, sonora, potencial
+ Energia potencial   Potencial elástica
+  Potencial gravitacional
+  Potencial nuclear
+  Potencial elétrica
+   Tensão Tensão elétrica
+Diferença de potencial elétrico (DDP)
+Voltagem
+ Tipo de tensão na tomada?
+Tipo de tensão dentro de um monitor cardíaco</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/ei-fontes/home/situacao-problema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/ei-fontes/home/situacao-problema/</guid>
+      <description>SITUAÇÃO PROBLEMA  Socorro! A internet caiu!
+ Você é o técnico em informática atuando num escritório de Advocacia quando, de repente, você percebe que a internet caiu.
+Observação: Você percebe que a fonte do roteador/modem foi completamente destruída por Brutus, o pequeno pitbull, mascote da firma. Você observou entre os destroços que a fonte tinha como entrada uma tensão de 220V alternada e produzia uma saída para o equipamento de 24W, trabalhando numa tensão contínua de 12V.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/ei-fontes/home/carga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/ei-fontes/home/carga/</guid>
+      <description> Carga (Eletrical Load != Carga elétrica)
+É o contrário de uma fonte;
+Bateria, tomada: Fornecem energia.
+Carga -&amp;gt; Consome energia
+ Tipos de Cargas   Resistivas: Ferro de passar roupa, chuveiro elétrico, lâmpadas incandecentes
+  Indutivas: Motores, transformadores, bobinas
+  Capacitivas: Equipamentos com capacitores
+  Cargas combinadas
+   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/ei-fontes/home/associacao-mista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/ei-fontes/home/associacao-mista/</guid>
+      <description> Associação mista de resistores  </description>
+    </item>
+    
+  </channel>
+</rss>
